@@ -1,0 +1,30 @@
+{
+  "name": "barbatos",
+  "version": "1.0.0",
+  "description": "A bard friend for your discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AR-Rahat/Barbatos.git"
+  },
+  "author": "ARRAHAT777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AR-Rahat/Barbatos/issues"
+  },
+  "homepage": "https://github.com/AR-Rahat/Barbatos#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/opus": "^0.7.0",
+    "@discordjs/rest": "^0.3.0",
+    "@discordjs/voice": "^0.8.0",
+    "discord-api-types": "^0.27.3",
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
